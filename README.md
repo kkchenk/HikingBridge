@@ -23,7 +23,7 @@ If there are 2 hikers (f1, f2, f3), the minimal time needed simply is f2;
 
 If there is onely one hiker (f1), the minimal time needed simply is f1;
 
-So greedily 
+So greedily apply the above processing till all hikers cross the bridge. 
 
 
 b) BFS solution:

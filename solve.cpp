@@ -171,7 +171,7 @@ double bfsSolution(std::vector<double>& timeNeededPerHiker){
 					    q.push(cur);
 				        }
 					cur[k] = '0'; //restore
-					break;//only try to quickest one is enough
+					break;//only try the quickest one is enough
                                     }				    
                                 }
 			    }
