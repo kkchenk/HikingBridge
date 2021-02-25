@@ -1,0 +1,17 @@
+Bridge:
+  Len: 100
+  HikerSpeed:
+    - 100
+    - 50
+    - 20
+    - 10
+Bridge:
+  Len: 250
+  HikerSpeed:
+    - 2.5
+Bridge:
+  Len: 150
+  HikerSpeed:
+    - 25
+    - 15
+Bridge
